@@ -26,3 +26,5 @@ Based on the analysis of the Cancer Classification Dataset, the following findin
    Through the use of machine learning models trained on the dataset, it is possible to evaluate the performance and accuracy of different algorithms in cancer classification tasks. This can guide the selection of the most effective model for future applications.
 
 These findings can be further explored and validated through additional analysis and research in the field of cancer classification.
+## Conclusion :
+Achieved in a developing a predictive model to predict the diagnosis of the patient whether having cancer or not with the accuracy of 99.3% (Random Forest Classifier)
